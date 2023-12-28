@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "status_code": "10000",
+    "message": "Successful",
+    "data": {
+      "first_name": "Tester",
+      "last_name": "Zero",
+      "email": "orjimichael4886@gmail.com",
+      "role": "admin",
+      "account_balance": 0,
+      "password": "$2b$10$43Elo8Ginpr2rx24W2H5qe71Lo63IVLa9UWmyQT5xmErMNREy2W2u",
+      "deleted": false,
+      "_id": "6538eea864eeeb58910ba07e",
+      "createdAt": "2023-10-25T10:32:08.643Z",
+      "updatedAt": "2023-10-25T10:32:08.643Z",
+      "__v": 0
+    }
+  }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic Link Authentication</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="email-container" id="email-container">
+        <div class="header" id="header">
+            <h1>Magic Link Authentication</h1>
+        </div>
+        <div class="content" id="content">
+            <h2>Hello,</h2>
+            <p>We received a request to log in to your Task Manager. If you didn't make this request, you can safely ignore this email.</p>
+            <p>To log in securely, click the button below:</p>
+            <a href="{{magicLink}}" class="btn" id="login-button">Log In</a>
+            <p class="spacer" id="spacer"></p>
+            <p>If you have any questions or need further assistance, please contact our support team.</p>
+        </div>
+    </div>
+</body>
+</html>
